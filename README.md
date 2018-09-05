@@ -8,6 +8,13 @@ This gem is doing this for you, so you can focus on more important things.
 
 Gem is adding method-wrapper `fa_file_icon` which behaves very similar to `fa_icon` and can receive same arguments as `fa_icon`.
 
+```erb
+<p><%= fa_file_icon 'file.pdf', text: 'download' %></p>
+<p><%= fa_file_icon 'movie.avi' %></p>
+<p><%= fa_file_icon 'attachment.zip' %></p>
+<p><%= fa_file_icon user.avatar.file.filename, text: user.avatar.file.filename %></p>
+```
+
 ## Installation
 Add this line to your application's Gemfile:
 
