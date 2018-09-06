@@ -52,6 +52,11 @@ module FontAwesomeFileIcons
       fa_icon(icon, *options)
     end
 
+    def fa_file_stacked_icon(filename, *options)
+      icon = get_icon(filename)
+      fa_stacked_icon(icon, *options)
+    end
+
     private
     
     def get_icon(filename)
