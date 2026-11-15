@@ -1,10 +1,7 @@
 # Font Awesome file icons
 
-<a href="https://igorkasyanchuk.com/apps?ref=font_awesome_file_icons">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://igorkasyanchuk.com/versions/v1/banner-dark.svg">
-    <img src="https://igorkasyanchuk.com/versions/v1/banner-light.svg" width="720" alt="More tools from the author: Laki, DiffNotes and more. See all projects at igorkasyanchuk.com/apps">
-  </picture>
+<a href="https://www.igorkasyanchuk.com/visit/laki?ref=font_awesome_file_icons">
+  <img src="https://www.igorkasyanchuk.com/versions/v2/laki-banner.gif" width="720" alt="Laki: run a team of AI coding agents. Lose track of none. Free at laki.sh">
 </a>
 
 Sometimes you need to output filename with an icon from font-awesome. And you need to take an extension of file and use some mapping.
